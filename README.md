@@ -5,4 +5,6 @@ At the end of the execution of the algorithm, we’ll have the parent[] array re
 
 Link to Google Colab: https://colab.research.google.com/drive/1HPZXrkAzTAFyDMcEWm0z45nWdSOVHUWr?usp=sharing
 
-Check out a little presentation of the project here[]
+Check out a little presentation of the project [here](https://github.com/maurofama99/random_maze_generator/blob/main/maze_generation_slides.pdf)
+
+[maze_generation_benchmark.cpp](https://github.com/maurofama99/random_maze_generator/blob/main/maze_generation_benchmark.cpp) is linked with Google Benchmark library
